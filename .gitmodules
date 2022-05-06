@@ -1,0 +1,15 @@
+[submodule "Chalk/vendor/GLFW"]
+	path = Chalk/vendor/GLFW
+	url = https://github.com/KreideGit/glfw
+[submodule "Chalk/vendor/ImGui"]
+	path = Chalk/vendor/ImGui
+	url = https://github.com/KreideGit/imgui
+[submodule "Chalk/vendor/glm"]
+	path = Chalk/vendor/glm
+	url = https://github.com/KreideGit/glm
+[submodule "Chalk/vendor/spdlog"]
+	path = Chalk/vendor/spdlog
+	url = https://github.com/KreideGit/spdlog
+[submodule "Chalk/vendor/box2d"]
+	path = Chalk/vendor/box2d
+	url = https://github.com/KreideGit/box2d
