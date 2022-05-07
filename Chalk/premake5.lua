@@ -15,6 +15,7 @@ project "Chalk"
 
     includedirs
     {
+        "src",
         "%{IncludeDir.GLFW}",
         "%{IncludeDir.ImGui}",
         "%{IncludeDir.glad}",
